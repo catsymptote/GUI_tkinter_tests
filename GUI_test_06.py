@@ -1,3 +1,7 @@
+# Python GUI with Tkinter 7
+# Mouse Click Events
+# TheNewBoston
+
 from tkinter import *
 import sys
 import test_file

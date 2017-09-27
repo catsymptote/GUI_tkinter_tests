@@ -1,3 +1,5 @@
+import sys
+
 def printer1():
     print("hi")
     sys.stdout.flush()

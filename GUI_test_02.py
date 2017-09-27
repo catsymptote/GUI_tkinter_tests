@@ -1,3 +1,8 @@
+# Python GUI with Tkinter 2
+# Organizing your Layout
+# TheNewBoston
+
+
 from tkinter import *
 
 
