@@ -1,4 +1,4 @@
-Based on the YouTube series " Python GUI with Tkintker", by thenewboston/Bucky
+Based on the YouTube series "Python GUI with Tkintker", by thenewboston/Bucky
 
 
 Ep  Fil Name                            URL
@@ -16,3 +16,7 @@ Ep  Fil Name                            URL
 12  09  Messagebox                      https://youtu.be/IB6VkXJVf0Y
 13  10  Shapes and Graphics             https://youtu.be/O12aT42okYE
 14  11  Images and Icons                https://youtu.be/lt78_05hHSk
+
+
+
+GUI_test_extra_*.py are the testing following the end of the tutorials.
